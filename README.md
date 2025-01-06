@@ -6,7 +6,7 @@ Tags:
   - Matrix
 ---
 
-# 🚀 _Day 2. Rotate by 90 degree_ 🧠
+# 🚀 _Day 37. Rotate by 90 degree_ 🧠
 
 The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/rotate-by-90-degree-1587115621)
 
